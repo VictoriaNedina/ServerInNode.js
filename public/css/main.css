@@ -6,6 +6,7 @@
     padding: 0;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
+    background-color: whitesmoke;
   }
   
   main {
@@ -16,7 +17,7 @@
   .main-header {
     width: 100%;
     height: 3.5rem;
-    background-color: #00695c;
+    background-color: #a900d3;
     padding: 0 1.5rem;
   }
   
