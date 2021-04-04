@@ -15,5 +15,13 @@
     "express": "^4.17.1",
     "express-handlebars": "^5.2.1",
     "pug": "^3.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaNedina/ServerInNode.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VictoriaNedina/ServerInNode.js/issues"
+  },
+  "homepage": "https://github.com/VictoriaNedina/ServerInNode.js#readme"
 }
